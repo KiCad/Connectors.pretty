@@ -58,7 +58,7 @@
   (pad 7 thru_hole circle (at 8.9 2) (size 1.55 1.55) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad B18 smd oval (at 6.6 -2.91) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
   (pad A18 smd oval (at 7.1 2.91) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
-  (model /home/kaklik/git/Connect.pretty/SAS_mini_1888174.wrl
+  (model Connectors/SAS_mini_1888174.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
