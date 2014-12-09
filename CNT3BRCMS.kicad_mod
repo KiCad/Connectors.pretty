@@ -1,11 +1,11 @@
 (module CNT3BRCMS (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference K200 (at 2.54 0 90) (layer F.SilkS)
-    (effects (font (size 1.016 0.762) (thickness 0.1905)))
+  (fp_text reference CNT3BRCMS (at 2.54 0 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value XLR5-B (at 2.54 0 90) (layer F.SilkS) hide
-    (effects (font (size 1.016 0.762) (thickness 0.1905)))
+  (fp_text value VAL** (at 2.54 0 90) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.7625 -2.667) (end 3.81 -2.667) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.81 -2.667) (end 3.81 2.667) (layer F.SilkS) (width 0.15))

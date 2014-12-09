@@ -3,10 +3,10 @@
   (descr "Connecteur DB25 femelle droit")
   (tags "CONN DB25")
   (fp_text reference DB25FD (at -15.24 -5.08 180) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val** (at 12.7 -5.08 180) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 12.7 -5.08 180) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -25.654 -3.175) (end -25.654 -3.175) (layer F.SilkS) (width 0.15))
   (fp_line (start -25.654 -3.175) (end -25.654 3.175) (layer F.SilkS) (width 0.15))
@@ -41,7 +41,7 @@
   (pad 23 thru_hole circle (at -9.652 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 24 thru_hole circle (at -12.446 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 25 thru_hole circle (at -15.24 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Conn_DBxx/db25_female.wrl
+  (model Connect/DB25FD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

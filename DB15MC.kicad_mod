@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Connecteur DB15 MALE couche")
   (tags "CONN DB15")
-  (fp_text reference DB15FC (at 0 -15.24) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference DB15MC (at 0 -15.24) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 -6.35) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 19.812 -11.43) (end -19.812 -11.43) (layer F.SilkS) (width 0.15))
   (fp_line (start 19.812 -12.7) (end -19.812 -12.7) (layer F.SilkS) (width 0.15))
@@ -44,7 +44,7 @@
   (pad 11 thru_hole circle (at 2.7432 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 5.5372 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 8.2804 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Conn_DBxx/db15_male_pin90deg.wrl
+  (model Connect/DB15MC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

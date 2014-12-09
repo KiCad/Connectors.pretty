@@ -3,10 +3,10 @@
   (descr "Connecteurs 2 pins")
   (tags "CONN DEV")
   (fp_text reference TESTPOINT (at 0 -1.524) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.1524)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val** (at 0.127 1.524) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.1524)))
+  (fp_text value VAL** (at 0.127 1.524) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.905 -0.889) (end 1.778 -0.889) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.778 -0.889) (end 2.286 -0.381) (layer F.SilkS) (width 0.15))
@@ -18,7 +18,7 @@
   (fp_line (start -2.413 -0.381) (end -1.905 -0.889) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -1.27 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 1.27 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors/testpoint.wrl
+  (model Connect/TESTPOINT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

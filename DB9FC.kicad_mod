@@ -3,10 +3,10 @@
   (descr "Connecteur DB9 femelle couche")
   (tags "CONN DB9")
   (fp_text reference DB9FC (at 1.27 -10.16) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 1.27 -3.81) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -16.129 2.286) (end 16.383 2.286) (layer F.SilkS) (width 0.15))
   (fp_line (start 16.383 2.286) (end 16.383 -15.494) (layer F.SilkS) (width 0.15))
@@ -29,7 +29,7 @@
   (pad 7 thru_hole circle (at -1.27 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 1.397 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 4.191 -1.27) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Conn_DBxx/db9_female_pin90deg.wrl
+  (model Connect/DB9FC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

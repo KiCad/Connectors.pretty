@@ -3,10 +3,10 @@
   (descr "Pontet Goute de soudure")
   (attr virtual)
   (fp_text reference GS2 (at 1.778 0 90) (layer F.SilkS)
-    (effects (font (size 1.016 0.762) (thickness 0.127)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL* (at 1.524 0 90) (layer F.SilkS) hide
-    (effects (font (size 0.762 0.762) (thickness 0.127)))
+  (fp_text value VAL** (at 1.524 0 90) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.889 -1.27) (end -0.889 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.889 1.27) (end 0.889 -1.27) (layer F.SilkS) (width 0.15))

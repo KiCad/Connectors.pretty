@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Double rangee de contacts 2 x 8 pins")
   (tags CONN)
-  (fp_text reference GS_6X2 (at -2.15646 -2.02946) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.2032)))
+  (fp_text reference GS_6x2 (at -2.15646 -2.02946) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val** (at 3.937 -2.032) (layer F.SilkS) hide
-    (effects (font (size 0.762 0.762) (thickness 0.2032)))
+  (fp_text value VAL** (at 3.937 -2.032) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.715 -1.27) (end 6.35 -1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.35 -1.27) (end 6.35 1.27) (layer F.SilkS) (width 0.15))

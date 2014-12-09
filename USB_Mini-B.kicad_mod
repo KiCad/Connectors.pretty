@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "USB Mini-B 5-pin SMD connector")
   (tags "USB, Mini-B, connector")
-  (fp_text reference CON (at 0 6.90118) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  (fp_text reference USB_Mini-B (at 0 6.90118) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value USB_Mini-B (at 0 -7.0993) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  (fp_text value VAL** (at 0 -7.0993) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.59918 -3.85064) (end -3.59918 3.85064) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.59994 -3.85064) (end -4.59994 3.85064) (layer F.SilkS) (width 0.15))
