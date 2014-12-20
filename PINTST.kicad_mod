@@ -3,14 +3,14 @@
   (descr "module 1 pin (ou trou mecanique de percage)")
   (tags DEV)
   (fp_text reference PINTST (at 0 -1.26746) (layer F.SilkS)
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val* (at 0 1.27) (layer F.SilkS) hide
-    (effects (font (size 0.508 0.508) (thickness 0.127)))
+  (fp_text value VAL** (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_circle (center 0 0) (end -0.254 -0.762) (layer F.SilkS) (width 0.127))
+  (fp_circle (center 0 0) (end -0.254 -0.762) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 1.143 1.143) (drill 0.635) (layers *.Cu *.Mask F.SilkS))
-  (model Pin_Array/pin_array_1x1.wrl
+  (model Connect/PINTST.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
