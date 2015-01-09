@@ -1,4 +1,4 @@
-(module Wafer_Vertical10x5.8x7RM2.5-3 (layer F.Cu) (tedit 5495356C)
+(module Wafer_Vertical10x5.8x7RM2.5-3 (layer F.Cu) (tedit 54AF98FF)
   (descr "Gold-Tek vertical wafer connector with 2.5mm pitch")
   (tags "wafer, connector, vertical")
   (fp_text reference Wafer_Vertical10x5.8x7RM2.5-3 (at 0 -3.81) (layer F.SilkS)
@@ -15,7 +15,7 @@
   (fp_line (start 5.08 -2.413) (end 5.08 3.429) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.826 -2.159) (end -4.826 3.175) (layer F.SilkS) (width 0.15))
   (fp_line (start -5.08 -2.413) (end -5.08 3.429) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -2.54 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (model Connectors/pitch2.5mm/wafer_vertical15x5.8x7RM2.5-5.wrl

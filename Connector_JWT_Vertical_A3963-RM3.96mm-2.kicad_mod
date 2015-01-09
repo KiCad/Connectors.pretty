@@ -1,4 +1,4 @@
-(module Connector_JWT_Vertical_A3963-RM3.96mm-2 (layer F.Cu) (tedit 540036CA)
+(module Connector_JWT_Vertical_A3963-RM3.96mm-2 (layer F.Cu) (tedit 54AF974E)
   (descr "JWT A3963, 3.96mm pitch Pin head connector")
   (tags "JWT,A3963,pin head")
   (fp_text reference Connector_JWT_Vertical_A3963-RM3.96mm-2 (at 0 -5.08) (layer F.SilkS)
@@ -22,7 +22,7 @@
   (fp_line (start -4.064 -1.905) (end 4.064 -1.905) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.064 0) (end -4.064 4.826) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.064 4.826) (end 4.064 0) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -1.98 0) (size 3 3) (drill 1.75) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -1.905 0) (size 3 3) (drill 1.75) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.98 0) (size 3 3) (drill 1.75) (layers *.Cu *.Mask F.SilkS))
   (model Connectors/pitch3.96mm/JWT_A3963-2.wrl
     (at (xyz 0 0 0))

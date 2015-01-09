@@ -1,4 +1,4 @@
-(module Wafer_Horizontal10x5.8x7RM2.5-3 (layer F.Cu) (tedit 549CF778)
+(module Wafer_Horizontal10x5.8x7RM2.5-3 (layer F.Cu) (tedit 54AF97C7)
   (descr "Gold-Tek horizontal wafer connector with 2.5mm pitch")
   (tags "wafer, connector, horizontal")
   (fp_text reference Wafer_Horizontal10x5.8x7RM2.5-3 (at 0 -3.81) (layer F.SilkS)
@@ -28,7 +28,7 @@
   (fp_line (start -4.9911 2.413) (end -4.9911 -2.413) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.0419 2.286) (end 5.0419 9.271) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.9911 9.271) (end -4.9911 2.286) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -2.5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -2.54 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (model Connectors/pitch2.5mm/wafer_horizontal15x5.8x7RM2.5-5.wrl
