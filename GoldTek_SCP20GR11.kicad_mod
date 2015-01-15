@@ -1,4 +1,4 @@
-(module GoldTek_SCP20GR11 (layer F.Cu) (tedit 54B7CB04)
+(module GoldTek_SCP20GR11 (layer F.Cu) (tedit 54B7CC2E)
   (descr "GoldTek SCP20GR11")
   (tags "CONN, GoldTek, SCP20GR11")
   (fp_text reference GoldTek_SCP20GR11 (at -7.62 -12.065) (layer F.SilkS)
