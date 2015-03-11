@@ -1,4 +1,4 @@
-(module BUSPCI locked (layer F.Cu)
+(module BUSPCI (layer F.Cu)
   (at 0 0)
   (descr "Connecteur Bus PCI")
   (tags "PCI CONN")

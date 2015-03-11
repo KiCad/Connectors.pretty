@@ -1,4 +1,4 @@
-(module FMC_LPC_ASP-134604-01 locked (layer F.Cu)
+(module FMC_LPC_ASP-134604-01 (layer F.Cu)
   (descr http://www.samtec.com/standards/vita.aspx)
   (tags "FMC LPC VITA ")
   (attr smd)
