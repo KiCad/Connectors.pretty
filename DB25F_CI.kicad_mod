@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Connecteur DB25 femelle encarte")
   (tags "CONN DB25")
-  (fp_text reference DB25F_CI (at 0 -2.54 180) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.54 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -8.89 180) (layer F.SilkS)
+  (fp_text value DB25F_CI (at 0 -8.89 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 19.05 -0.508) (end 19.05 1.143) (layer F.SilkS) (width 0.15))
@@ -52,7 +52,7 @@
   (pad 23 connect rect (at 9.525 2.667 90) (size 5.08 1.524) (layers B.Cu B.Mask))
   (pad 24 connect rect (at 12.319 2.667 90) (size 5.08 1.524) (layers B.Cu B.Mask))
   (pad 25 connect rect (at 14.986 2.667 90) (size 5.08 1.524) (layers B.Cu B.Mask))
-  (model Connect/DB25F_CI.wrl
+  (model Connect.3dshapes/DB25F_CI.wrl
     (at (xyz 0 0 -0.033))
     (scale (xyz 0.98 1 1))
     (rotate (xyz 90 180 0))

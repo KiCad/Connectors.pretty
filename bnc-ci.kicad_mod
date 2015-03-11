@@ -1,9 +1,9 @@
 (module bnc-ci (layer F.Cu)
   (at 0 0)
-  (fp_text reference bnc-ci (at 0 -8.89) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 8.89) (layer F.SilkS)
+  (fp_text value bnc-ci (at 0 8.89) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end -6.985 0) (layer F.SilkS) (width 0.15))
@@ -12,7 +12,7 @@
   (pad 2 thru_hole circle (at 3.175 -3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -3.175 3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 3.175 3.175) (size 3.81 3.81) (drill 1.524) (layers *.Cu *.Mask F.SilkS))
-  (model Connect/bnc-ci.wrl
+  (model Connect.3dshapes/bnc-ci.wrl
     (at (xyz 0 0 0))
     (scale (xyz 2 2 2))
     (rotate (xyz 0 0 0))

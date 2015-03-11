@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Connecteur DB37 femelle couche")
   (tags "CONN DB37")
-  (fp_text reference DB37FC (at 0 -5.08 180) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.08 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -7.62 180) (layer F.SilkS)
+  (fp_text value DB37FC (at 0 -7.62 180) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 34.925 3.175) (end -34.925 3.175) (layer F.SilkS) (width 0.15))
@@ -56,7 +56,7 @@
   (pad 35 thru_hole circle (at 17.9832 -1.4224 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 36 thru_hole circle (at 20.7518 -1.4224 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 37 thru_hole circle (at 23.5204 -1.4224 180) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Connect/DB37FC.wrl
+  (model Connect.3dshapes/DB37FC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

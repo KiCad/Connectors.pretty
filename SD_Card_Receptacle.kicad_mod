@@ -1,8 +1,8 @@
 (module SD_Card_Receptacle (layer F.Cu) (tedit 54A89A84)
-  (fp_text reference CON1 (at 9.96386 19.9312) (layer F.SilkS)
+  (fp_text reference REF** (at 9.96386 19.9312) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.1524)))
   )
-  (fp_text value SD_Card (at -1.2 9) (layer F.SilkS) hide
+  (fp_text value SD_Card_Receptacle (at -1.2 9) (layer F.Fab)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start -14.7 41.05) (end 15.5 41.05) (layer F.CrtYd) (width 0.15))

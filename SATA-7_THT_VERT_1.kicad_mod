@@ -1,8 +1,8 @@
 (module SATA-7_THT_VERT_1 (layer F.Cu)
-  (fp_text reference SATA-7_THT_VERT_1 (at 0 -4.191) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -4.191) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -2.286) (layer F.SilkS) hide
+  (fp_text value SATA-7_THT_VERT_1 (at 0 -2.286) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.45 -3.225) (end 8.45 -3.225) (layer F.SilkS) (width 0.15))
