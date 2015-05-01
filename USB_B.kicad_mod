@@ -1,4 +1,4 @@
-(module USB_B locked (layer F.Cu) (tedit 55363CC8)
+(module USB_B (layer F.Cu) (tedit 55363CC8)
   (tags USB)
   (fp_text reference REF** (at 1.27 11.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
