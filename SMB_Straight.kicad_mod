@@ -24,9 +24,9 @@
   (pad 2 thru_hole circle (at 2.54 -2.54) (size 2.74 2.74) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 -2.54) (size 2.74 2.74) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 2.24 2.24) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (model Connect.3dshapes/SMB_Jack_Straight.wrl
-    (at (xyz 0 -0.14 0))
-    (scale (xyz 0.4 0.4 0.4))
+  (model Connect.3dshapes/SMB_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.1 0.1 0.1))
     (rotate (xyz 0 0 0))
   )
 )
