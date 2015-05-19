@@ -1,4 +1,4 @@
-(module RJHSE538X locked (layer F.Cu) (tedit 55225793)
+(module RJHSE538X (layer F.Cu) (tedit 55225793)
   (descr "mod. jack, ethernet, 8P8C, RJ45 connector, 2 leds, shielded")
   (tags "RJHSE538X 8P8C RJ45 ethernet jack")
   (fp_text reference REF** (at 3.4925 -6.9215) (layer F.SilkS)
