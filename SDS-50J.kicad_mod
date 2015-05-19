@@ -1,4 +1,4 @@
-(module SDS-50J locked (layer F.Cu) (tedit 55225A7B)
+(module SDS-50J (layer F.Cu) (tedit 55225A7B)
   (descr "SDS-50J, standard DIN connector, 5 pins, midi")
   (tags "SDS-50J DIN 5-pins connector midi")
   (fp_text reference REF** (at 1.9 -4.75) (layer F.SilkS)
