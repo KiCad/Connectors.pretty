@@ -1,4 +1,4 @@
-(module NMJ6HCD2 locked (layer F.Cu) (tedit 551E8E62)
+(module NMJ6HCD2 (layer F.Cu) (tedit 551E8E62)
   (descr "NMJ6HCD2, TRS 1/4\" jack connector, stereo, switched")
   (tags "NMJ6HCD2 TRS stereo jack connector")
   (fp_text reference REF** (at 0.889 18.415) (layer F.SilkS)
