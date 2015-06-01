@@ -2,10 +2,10 @@
   (at 107.95 255.27)
   (descr "Connecteur Bus AT ISA 16 bits")
   (tags "CONN BUS ISA")
-  (fp_text reference BUS_AT (at -22.86 -6.985) (layer F.SilkS)
+  (fp_text reference REF** (at -22.86 -6.985) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -43.815 -6.985) (layer F.SilkS) hide
+  (fp_text value BUS_AT (at -43.815 -6.985) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 40.64 3.81) (end -40.64 3.81) (layer F.SilkS) (width 0.15))

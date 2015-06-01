@@ -1,10 +1,10 @@
 (module SAS_mini_1888174 (layer F.Cu)
   (descr "36pin mini SAS connector")
   (tags "SAS mini connector")
-  (fp_text reference SAS_mini_1888174 (at 4 -7.4) (layer F.SilkS)
+  (fp_text reference REF** (at 4 -7.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+  (fp_text value SAS_mini_1888174 (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.5 -6.5) (end -9.5 -6.5) (layer F.SilkS) (width 0.15))
@@ -58,7 +58,7 @@
   (pad 7 thru_hole circle (at 8.9 2) (size 1.55 1.55) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad B18 smd oval (at 6.6 -2.91) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
   (pad A18 smd oval (at 7.1 2.91) (size 0.35 1.8) (layers F.Cu F.Paste F.Mask))
-  (model Connect/SAS_mini_1888174.wrl
+  (model Connect.3dshapes/SAS_mini_1888174.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

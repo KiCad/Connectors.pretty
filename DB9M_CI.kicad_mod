@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Connecteur DB9 male encarte")
   (tags "CONN DB9")
-  (fp_text reference DB9M_CI (at 0 -8.382) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -8.382) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -3.048) (layer F.SilkS)
+  (fp_text value DB9M_CI (at 0 -3.048) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.509 -11.938) (end 8.636 -11.938) (layer F.SilkS) (width 0.15))
@@ -35,7 +35,7 @@
   (pad 8 connect rect (at -1.397 2.667) (size 1.778 5.08) (layers B.Cu B.Mask))
   (pad 7 connect rect (at 1.397 2.667) (size 1.778 5.08) (layers B.Cu B.Mask))
   (pad 6 connect rect (at 4.191 2.667) (size 1.778 5.08) (layers B.Cu B.Mask))
-  (model Connect/DB9M_CI.wrl
+  (model Connect.3dshapes/DB9M_CI.wrl
     (at (xyz 0 0 -0.033))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 0))

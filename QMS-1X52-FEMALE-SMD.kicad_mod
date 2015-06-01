@@ -1,10 +1,10 @@
 (module QMS-1X52-FEMALE-SMD (layer F.Cu)
   (at 0 0)
   (attr smd)
-  (fp_text reference QMS-1X52-FEMALE-SMD (at 0.4 -1.9) (layer F.SilkS)
+  (fp_text reference REF** (at 0.4 -1.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -0.1 2) (layer F.SilkS)
+  (fp_text value QMS-1X52-FEMALE-SMD (at -0.1 2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.398 -1.27) (end -9.398 -1.27) (layer F.SilkS) (width 0.15))
@@ -87,7 +87,7 @@
   (pad 53 smd oval (at 0 0) (size 18.034 0.508) (layers F.Cu F.Paste F.Mask))
   (pad "" thru_hole circle (at -9.29132 1.78562) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 9.3599 1.78562) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
-  (model Connect/QMS-1X52-FEMALE-SMD.wrl
+  (model Connect.3dshapes/QMS-1X52-FEMALE-SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 0))

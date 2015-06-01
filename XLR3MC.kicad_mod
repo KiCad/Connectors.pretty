@@ -1,9 +1,9 @@
 (module XLR3MC (layer F.Cu)
   (at 0 0)
-  (fp_text reference XLR3MC (at 0 10.16) (layer F.SilkS)
+  (fp_text reference REF** (at 0 10.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 15.24) (layer F.SilkS) hide
+  (fp_text value XLR3MC (at 0 15.24) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11.43 22.225) (end -11.43 24.13) (layer F.SilkS) (width 0.15))
@@ -25,7 +25,7 @@
   (pad 4 thru_hole circle (at 0 -5.08) (size 2.54 2.54) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 0 5.08) (size 3.81 3.81) (drill 3.2004) (layers *.Cu *.Mask F.SilkS))
-  (model Connect/XLR3MC.wrl
+  (model Connect.3dshapes/XLR3MC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 2 2 2))
     (rotate (xyz 0 0 0))
