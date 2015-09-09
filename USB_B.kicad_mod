@@ -24,8 +24,8 @@
   (pad 5 thru_hole circle (at 4.699 7.26948 270) (size 2.70002 2.70002) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 4.699 -4.72948 270) (size 2.70002 2.70002) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
   (model Connect.3dshapes/USB_B.wrl
-    (at (xyz 0.05 -0.185 0.001))
+    (at (xyz 0.185 -0.05 0.001))
     (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )
