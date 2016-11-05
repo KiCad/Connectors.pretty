@@ -144,6 +144,6 @@
   (pad 104 smd rect (at -18.6055 -3.302) (size 0.381 2.159) (layers F.Cu F.Paste F.Mask))
   (pad 106 smd rect (at -10.668 0) (size 18.034 0.508) (layers F.Cu F.Paste F.Mask))
   (pad 105 smd rect (at 10.668 0) (size 18.034 0.508) (layers F.Cu F.Paste F.Mask))
-  (pad "" thru_hole circle (at -20.955 2.032) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 20.955 2.032) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at -20.955 2.032) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 20.955 2.032) (size 1.524 1.524) (drill 1.27) (layers *.Cu *.Mask))
 )
