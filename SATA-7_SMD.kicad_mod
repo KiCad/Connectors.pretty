@@ -122,6 +122,6 @@
   (pad 5 smd rect (at 1.27 -11.19886) (size 0.99822 2.09804) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.54 -11.19886) (size 0.99822 2.09804) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 3.81 -11.19886) (size 0.99822 2.09804) (layers F.Cu F.Paste F.Mask))
-  (pad M1 thru_hole oval (at -6.39826 -9.24814) (size 1.27 2.54) (drill 0.6985) (layers F&B.Cu F.Paste F.SilkS F.Mask))
-  (pad M2 thru_hole oval (at 6.39826 -9.24814) (size 1.27 2.54) (drill 0.6985) (layers F&B.Cu F.Paste F.SilkS F.Mask))
+  (pad M1 thru_hole oval (at -6.39826 -9.24814) (size 1.27 2.54) (drill 0.6985) (layers F&B.Cu F.Paste F.Mask))
+  (pad M2 thru_hole oval (at 6.39826 -9.24814) (size 1.27 2.54) (drill 0.6985) (layers F&B.Cu F.Paste F.Mask))
 )

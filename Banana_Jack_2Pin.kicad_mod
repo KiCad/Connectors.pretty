@@ -11,8 +11,8 @@
   (fp_line (start 21.59 -6.35) (end 21.59 6.35) (layer F.SilkS) (width 0.15))
   (fp_line (start 21.59 6.35) (end -21.59 6.35) (layer F.SilkS) (width 0.15))
   (fp_line (start -21.59 6.35) (end -21.59 -6.35) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -14.986 0) (size 10.16 10.16) (drill 6.096) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 14.986 0) (size 10.16 10.16) (drill 6.096) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -14.986 0) (size 10.16 10.16) (drill 6.096) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 14.986 0) (size 10.16 10.16) (drill 6.096) (layers *.Cu *.Mask))
   (model Connect.3dshapes/Banana_Jack_2Pin.wrl
     (at (xyz 0 0 0))
     (scale (xyz 2 2 2))
