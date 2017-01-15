@@ -93,6 +93,6 @@
   (fp_arc (start 0.06374 -6.0706) (end 1.52678 -4.11734) (angle 75.5) (layer F.SilkS) (width 0.15))
   (fp_arc (start -0.01246 -3.7084) (end -1.6152 -5.0038) (angle 100) (layer F.SilkS) (width 0.15))
   (fp_arc (start -1.1326 -4.64566) (end -1.41962 -4.1275) (angle 104.2) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole oval (at 0 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.SilkS F.Mask))
-  (pad 2 thru_hole oval (at 5 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.SilkS F.Mask))
+  (pad 1 thru_hole oval (at 0 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.Mask))
+  (pad 2 thru_hole oval (at 5 0) (size 1.9812 3.9624) (drill 1.3208) (layers *.Cu F.Paste F.Mask))
 )
