@@ -10,4 +10,4 @@
   (fp_circle (center 0 0) (end 4.85 0.05) (layer F.Fab) (width 0.10))
   (fp_circle (center 0 0) (end 5.50 0) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 10.16 10.16) (drill 6.10) (layers *.Cu *.Mask))
-  (model Connect.3dshapes/Banana_Jack_1Pin.wrl (at (xyz 0 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
+  (model Connectors.3dshapes/Banana_Jack_1Pin.wrl (at (xyz 0 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
