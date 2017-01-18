@@ -1,4 +1,4 @@
-(module Grove_1x04 (layer F.Cu) (tedit 587D27CC)
+(module Grove_1x04 (layer F.Cu) (tedit 587F9C9D)
   (descr https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf)
   (tags Grove-1x04)
   (fp_text reference REF** (at -1.5 -4) (layer F.SilkS)
@@ -30,7 +30,7 @@
   (pad 2 thru_hole circle (at 0 2) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 4) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 0 6) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model Connect.3dshapes/Grove_1x04.wrl
+  (model Connectors.3dshapes/Grove_1x04.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 -90))
