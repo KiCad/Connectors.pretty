@@ -24,7 +24,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 10.16 10.16) (drill 6.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 29.97 0) (size 10.16 10.16) (drill 6.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 14.99 0) (size 10.16 10.16) (drill 6.1) (layers *.Cu *.Mask))
-  (model Connect.3dshapes/Banana_Jack_3Pin.wrl
+  (model Connectors.3dshapes/Banana_Jack_3Pin.wrl
     (at (xyz 0.5905511811023623 0 0))
     (scale (xyz 2 2 2))
     (rotate (xyz 0 0 0))

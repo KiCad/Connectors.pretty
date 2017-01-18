@@ -8,10 +8,10 @@
   (fp_text value DB9MD (at 5.08 -4.572) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start -14.986 -3.175) (end -14.986 3.429) (layer F.SilkS) (width 0.15))
-  (fp_line (start -14.986 3.429) (end 14.986 3.429) (layer F.SilkS) (width 0.15))
-  (fp_line (start 14.986 3.429) (end 14.986 -3.175) (layer F.SilkS) (width 0.15))
-  (fp_line (start 14.986 -3.175) (end -14.986 -3.175) (layer F.SilkS) (width 0.15))
+  (fp_line (start -14.986 -3.175) (end -14.986 3.429) (layer F.SilkS) (width 0.12))
+  (fp_line (start -14.986 3.429) (end 14.986 3.429) (layer F.SilkS) (width 0.12))
+  (fp_line (start 14.986 3.429) (end 14.986 -3.175) (layer F.SilkS) (width 0.12))
+  (fp_line (start 14.986 -3.175) (end -14.986 -3.175) (layer F.SilkS) (width 0.12))
   (pad 0 thru_hole circle (at -12.446 0) (size 3.81 3.81) (drill 3.048) (layers *.Cu *.Mask))
   (pad 0 thru_hole circle (at 12.573 0) (size 3.81 3.81) (drill 3.048) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -5.461 -1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
@@ -23,7 +23,7 @@
   (pad 7 thru_hole circle (at -1.27 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 1.397 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 4.191 1.397) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask))
-  (model Connect.3dshapes/DB9MD.wrl
+  (model Connectors.3dshapes/DB9MD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
