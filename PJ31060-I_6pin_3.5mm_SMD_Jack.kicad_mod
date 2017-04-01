@@ -1,4 +1,4 @@
-(module PJ31060-I_6pin_3.5mm_SMD_Jack (layer F.Cu) (tedit 58E03394)
+(module PJ31060-I_6pin_3.5mm_SMD_Jack (layer F.Cu) (tedit 58E0389C)
   (descr "PJ31060-I 6pin SMD 3.5mm headphones jack.")
   (tags "headphones jack plug stereo 3.5mm PJ31060-I PJ31060")
   (attr smd)

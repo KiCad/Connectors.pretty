@@ -1,4 +1,4 @@
-(module PJ311_6pin_3.5mm_SMD_Jack (layer F.Cu) (tedit 58E032C9)
+(module PJ311_6pin_3.5mm_SMD_Jack (layer F.Cu) (tedit 58E03872)
   (descr "PJ311 6pin SMD 3.5mm stereo headphones jack.")
   (tags "headphones jack plug stereo 3.5mm PJ311")
   (attr smd)
