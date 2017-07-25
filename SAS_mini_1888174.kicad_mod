@@ -64,4 +64,4 @@
   (pad 7 thru_hole circle (at 8.90 3.10) (size 1.55 1.55) (drill 0.80) (layers *.Cu *.Mask))
   (pad B18 smd oval (at 6.60 -1.80) (size 0.35 1.80) (layers F.Cu F.Paste F.Mask))
   (pad A18 smd oval (at 7.10 4.01) (size 0.35 1.80) (layers F.Cu F.Paste F.Mask))
-  (model Connectors.3dshapes/SAS_mini_1888174.wrl (at (xyz 0.00 -0.04 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/SAS_mini_1888174.wrl (at (xyz 0.00 -0.04 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

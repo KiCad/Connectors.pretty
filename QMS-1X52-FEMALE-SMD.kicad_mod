@@ -82,4 +82,4 @@
   (pad 53 smd oval (at -0.03 -0.01) (size 18.03 0.51) (layers F.Cu F.Paste F.Mask))
   (pad "" thru_hole circle (at -9.33 1.78) (size 1.52 1.52) (drill 1.27) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 9.33 1.78) (size 1.52 1.52) (drill 1.27) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/QMS-1X52-FEMALE-SMD.wrl (at (xyz 0 0 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/QMS-1X52-FEMALE-SMD.wrl (at (xyz 0 0 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))

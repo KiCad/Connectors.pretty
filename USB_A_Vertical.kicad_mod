@@ -23,4 +23,4 @@
   (pad 5 thru_hole circle (at 2.72 6.27) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -2.72 -0.73) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -2.72 6.27) (size 1.85 1.85) (drill 1.35) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/USB_A_Vertical.wrl (at (xyz 0.01 -0.02 0.05)) (scale (xyz 0.41 0.41 0.41)) (rotate (xyz 0 -90 180))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/USB_A_Vertical.wrl (at (xyz 0.01 -0.02 0.05)) (scale (xyz 0.41 0.41 0.41)) (rotate (xyz 0 -90 180))))

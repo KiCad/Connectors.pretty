@@ -56,4 +56,4 @@
   (pad 23 thru_hole circle (at 26.21 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 24 thru_hole circle (at 28.96 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 25 thru_hole circle (at 31.75 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/DB25FC.wrl (at (xyz 0.65 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB25FC.wrl (at (xyz 0.65 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

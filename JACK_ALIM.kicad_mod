@@ -27,4 +27,4 @@
   (pad 2 thru_hole circle (at -6.10 0) (size 4.80 4.80) (drill oval 1.02 2.54) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0.00 0) (size 4.80 4.80) (drill oval 1.02 2.54) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -3.81 5.08) (size 4.80 4.80) (drill oval 2.54 1.02) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/JACK_ALIM.wrl (at (xyz -0.24 0.00 0)) (scale (xyz 0.80 0.80 0.80)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/JACK_ALIM.wrl (at (xyz -0.24 0.00 0)) (scale (xyz 0.80 0.80 0.80)) (rotate (xyz 0 0 0))))

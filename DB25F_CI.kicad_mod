@@ -51,4 +51,4 @@
   (pad 23 connect rect (at 26.04 0.00 90) (size 5.08 1.52) (layers B.Cu B.Mask))
   (pad 24 connect rect (at 28.83 0.00 90) (size 5.08 1.52) (layers B.Cu B.Mask))
   (pad 25 connect rect (at 31.50 0.00 90) (size 5.08 1.52) (layers B.Cu B.Mask))
-  (model Connectors.3dshapes/DB25F_CI.wrl (at (xyz 0.65 0.10 -0.03)) (scale (xyz 0.98 1 1)) (rotate (xyz 90 180 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB25F_CI.wrl (at (xyz 0.65 0.10 -0.03)) (scale (xyz 0.98 1 1)) (rotate (xyz 90 180 0))))

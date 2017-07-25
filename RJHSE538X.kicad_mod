@@ -31,4 +31,4 @@
   (pad "" thru_hole circle (at -2.79 -2.54) (size 3.30 3.30) (drill 3.30) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 9.91 -2.54) (size 3.30 3.30) (drill 3.30) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -4.57 0.89) (size 2 2) (drill 1.57) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/RJHSE538X.wrl (at (xyz 0.14 0.06 0.12)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz -90 0 180))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/RJHSE538X.wrl (at (xyz 0.14 0.06 0.12)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz -90 0 180))))

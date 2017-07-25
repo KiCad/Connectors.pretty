@@ -57,4 +57,4 @@
   (pad 35 thru_hole circle (at 42.90 -2.84 180) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 36 thru_hole circle (at 45.67 -2.84 180) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 37 thru_hole circle (at 48.44 -2.84 180) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/DB37FC.wrl (at (xyz 0.98 0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB37FC.wrl (at (xyz 0.98 0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

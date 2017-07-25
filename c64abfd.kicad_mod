@@ -87,4 +87,4 @@
   (pad B32 thru_hole circle (at 78.74 -2.54) (size 1.52 1.52) (drill 0.81) (layers *.Cu *.Mask))
   (pad 65 thru_hole circle (at -5.08 -2.54) (size 3.81 3.81) (drill 3.05) (layers *.Cu *.Mask))
   (pad 66 thru_hole circle (at 83.82 -2.54) (size 3.81 3.81) (drill 3.05) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/c64abfd.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/c64abfd.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

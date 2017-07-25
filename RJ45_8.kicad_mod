@@ -24,4 +24,4 @@
   (pad 6 thru_hole circle (at 6.35 -2.54) (size 1.50 1.50) (drill 0.90) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 7.62 0) (size 1.50 1.50) (drill 0.90) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 -2.54) (size 1.50 1.50) (drill 0.90) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/RJ45_8.wrl (at (xyz 0.18 -0.25 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/RJ45_8.wrl (at (xyz 0.18 -0.25 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))

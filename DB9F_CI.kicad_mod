@@ -45,4 +45,4 @@
   (pad 7 connect rect (at -1.40 0.00) (size 1.78 5.08) (layers B.Cu B.Mask))
   (pad 8 connect rect (at 1.40 0.00) (size 1.78 5.08) (layers B.Cu B.Mask))
   (pad 9 connect rect (at 4.19 0.00) (size 1.78 5.08) (layers B.Cu B.Mask))
-  (model Connectors.3dshapes/DB9F_CI.wrl (at (xyz 0 0.12 -0.04)) (scale (xyz 1 1 1)) (rotate (xyz 90 180 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB9F_CI.wrl (at (xyz 0 0.12 -0.04)) (scale (xyz 1 1 1)) (rotate (xyz 90 180 0))))
