@@ -21,4 +21,4 @@
   (fp_line (start 7.79 4.00) (end -2.71 4.00) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole rect (at 0.00 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/bornier2.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/bornier2.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

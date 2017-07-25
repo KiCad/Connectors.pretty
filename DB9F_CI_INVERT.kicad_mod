@@ -44,4 +44,4 @@
   (pad 8 connect rect (at -1.40 0.00) (size 1.78 5.08) (layers F.Cu F.Mask))
   (pad 7 connect rect (at 1.40 0.00) (size 1.78 5.08) (layers F.Cu F.Mask))
   (pad 6 connect rect (at 4.19 0.00) (size 1.78 5.08) (layers F.Cu F.Mask))
-  (model Connectors.3dshapes/DB9F_CI_INVERT.wrl (at (xyz 0 0.02 -0.03)) (scale (xyz 1 1 1)) (rotate (xyz 90 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB9F_CI_INVERT.wrl (at (xyz 0 0.02 -0.03)) (scale (xyz 1 1 1)) (rotate (xyz 90 0 0))))

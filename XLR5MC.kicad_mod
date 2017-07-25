@@ -28,4 +28,4 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.54 2.54) (drill 1.52) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 15.24 5.08) (size 2.54 2.54) (drill 2.11) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 5.08 17.78) (size 2.54 2.54) (drill 2.11) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/XLR5MC.wrl (at (xyz 0.40 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/XLR5MC.wrl (at (xyz 0.40 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))

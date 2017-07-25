@@ -19,4 +19,4 @@
   (pad 4 thru_hole circle (at 7.54 0) (size 2 2) (drill 1.20) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10.04 0) (size 2 2) (drill 1.20) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 12.54 0) (size 2 2) (drill 1.20) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/Wafer_Vertical17.5x5.8x7RM2.5-6.wrl (at (xyz 0 0 0)) (scale (xyz 4 4 4)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/Wafer_Vertical17.5x5.8x7RM2.5-6.wrl (at (xyz 0 0 0)) (scale (xyz 4 4 4)) (rotate (xyz 0 0 0))))

@@ -36,7 +36,7 @@
   (pad 8 thru_hole circle (at -6.86 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at -4.19 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -1.4 -2.54) (size 1.52 1.52) (drill 1.02) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/DB9MC.wrl
+  (model ${KISYS3DMOD}/Connectors.3dshapes/DB9MC.wrl
     (at (xyz -0.22 0.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

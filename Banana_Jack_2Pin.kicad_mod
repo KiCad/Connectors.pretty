@@ -19,4 +19,4 @@
   (fp_arc (start 0 0) (end 0 5.25) (angle 180) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 10.16 10.16) (drill 6.10) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 29.97 0) (size 10.16 10.16) (drill 6.10) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/Banana_Jack_2Pin.wrl (at (xyz 0.59 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/Banana_Jack_2Pin.wrl (at (xyz 0.59 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))

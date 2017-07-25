@@ -39,4 +39,4 @@
   (pad 8 thru_hole circle (at 7.62 -2.54) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 10.16 0) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 10.16 -2.54) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes/he10-10d.wrl (at (xyz 0.20 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes/he10-10d.wrl (at (xyz 0.20 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
