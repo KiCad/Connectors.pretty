@@ -1,4 +1,4 @@
-(module microSD_Card_Receptacle_Wurth_693072010801 (layer F.Cu) (tedit 597725F0)
+(module microSD_Card_Receptacle_Wurth_693072010801 (layer F.Cu) (tedit 5977417C)
   (descr http://katalog.we-online.de/em/datasheet/693072010801.pdf)
   (attr smd)
   (fp_text reference REF** (at 0 -9.14) (layer F.SilkS)
