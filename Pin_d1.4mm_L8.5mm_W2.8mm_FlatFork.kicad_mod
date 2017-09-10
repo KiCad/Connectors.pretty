@@ -1,5 +1,5 @@
 (module Pin_d1.4mm_L8.5mm_W2.8mm_FlatFork (layer F.Cu) (tedit 59B3E075)
-  (descr "solder Pin_ with flat with fork, hole diameter 1.4mm, length 8.5mm, width 2.8mm")
+  (descr "solder Pin_ with flat with fork, hole diameter 1.4mm, length 8.5mm, width 2.8mm, e.g. Ettinger 13.13.890, https://katalog.ettinger.de/#p=434")
   (tags "solder Pin_ with flat fork")
   (fp_text reference REF** (at 0 2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
